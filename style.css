@@ -1,1 +1,30 @@
 /*Personal Web Page Style Sheet */
+body{background-color: burlywood;
+    color: #ffffff;
+}
+h1{font-family: cursive;
+    text-align: center;}
+h2{font-family: Arial, sans-serif;
+    text-align: left;
+    color: black; }
+h3{font-family: Arial, sans-serif;
+    text-align: left;
+    color: black;}
+ul{font-style: italic;}
+
+
+a:link {
+    color: darkcyan;
+}
+
+a:visited {
+        color: cadetblue;
+}
+
+a:hover {
+        color: darkolivegreen;
+}
+
+a:active {
+        color: crimson;
+}
